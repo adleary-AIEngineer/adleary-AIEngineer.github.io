@@ -1,0 +1,9 @@
+title: Adam Leary - AI Engineering Portfolio
+theme: cayman
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - architecture.md
+  - writing.md
+  - contact.md
