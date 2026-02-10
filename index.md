@@ -17,7 +17,7 @@ My focus is on how AI, data platforms, and cloud infrastructure fit together to 
 
 ## Flagship Work (In Progress)
 
-### Chemical Incident Response Platform Simulation (ChIRPS)
+### [Chemical Incident Response Platform Simulation (ChIRPS)](/projects/Chemical-Incident-Simulation)
 This project is a web-based simulation and training platform designed to model complex chemical, biological, radiological, and nuclear (CBRN) emergency response scenarios. The system enables facilitators to run realistic, multi-agency incident exercises while capturing detailed, time-ordered decision-making and operational actions.
 
 The platform is intended to support:
@@ -28,14 +28,13 @@ The platform is intended to support:
 - Decision analysis and replay
 - Auditability and compliance-oriented recordkeeping
 
-[View Platform Design →](/projects/Chemical-Incident-Simulation)
 
-### ERES: Emergency Response & Evaluation System
+
+### [ERES: Emergency Response & Evaluation System](/projects/Emergency-Response-Evaluation-System)
 In Emergency Management, Emergency Operations Plans (EOPs) are critical but cumbersome. Often spanning hundreds of pages, these PDFs are difficult to navigate under the high-stress conditions of an active incident.
 
 ERES is a local-first, high-performance RAG (Retrieval-Augmented Generation) pipeline designed to ingest complex EOPs and provide instant, grounded answers to field responders.
 
-[View Project Architecture & Design →](/projects/Emergency-Response-Evaluation-System)
 
 
 ## How to Use This Site
@@ -50,7 +49,7 @@ Together, these materials reflect my approach to designing AI-enabled systems th
 
 ---
 
-**Background:** Emergency management, chemical and biological threat domains  
+**Background:** Emergency management, chemical and biological threat domains, project and program management  
 **Focus:** AI systems architecture, cloud platform design, and operational AI  
 **Tools:** Python, SQL, AWS, LLM platforms, backend APIs, data platforms
 
