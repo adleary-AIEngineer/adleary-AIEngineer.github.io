@@ -1,4 +1,6 @@
-# Chemical Incident Response Platform Simulation (ChIRPS)
+---
+title: "Chemical Incident Response Platform Simulation (ChIRPS)"
+---
 
 ## Overview
 
