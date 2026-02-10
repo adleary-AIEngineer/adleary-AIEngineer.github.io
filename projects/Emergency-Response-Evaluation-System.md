@@ -1,4 +1,6 @@
-# ERES: Emergency Response & Evaluation System 🚀
+---
+title: "ERES: Emergency Response & Evaluation System"
+---
 **Bridging the Gap Between Static Plans and Actionable Intelligence**
 
 ## 📌 Project Overview
