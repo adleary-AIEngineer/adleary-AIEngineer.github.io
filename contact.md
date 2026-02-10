@@ -1,3 +1,7 @@
+---
+title: Contact
+---
+
 ## Contact
 
 - GitHub: https://github.com/adleary-AIEngineer
