@@ -1,4 +1,4 @@
-# Contact
+## Contact
 
 - GitHub: https://github.com/adleary-AIEngineer
 - LinkedIn: https://linkedin.com/in/adamleary1
