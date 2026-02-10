@@ -1,7 +1,6 @@
 ---
 title: Architecture and Systems Design (In Progress)
 ---
-## Architecture and Systems Design (In Progress)
 
 This section will document:
 
