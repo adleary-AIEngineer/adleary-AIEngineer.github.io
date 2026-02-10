@@ -1,4 +1,6 @@
-# AI Systems and Cloud Architecture Portfolio
+---
+layout: home
+---
 
 I am a project and program management professional in emergency management, focused on chemical and biological threats, who is transitioning into AI systems and cloud architecture. This site documents my work designing and building end-to-end AI-enabled platforms, with an emphasis on system architecture, reliability, and operational readiness.
 
