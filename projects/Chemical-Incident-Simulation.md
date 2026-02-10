@@ -27,6 +27,28 @@ Training and exercising for low-frequency, high consequence threats like CBRN in
 - Materialized state views for real-time simulation
 - API-driven architecture for UI, analytics, and integration
 
+## Tools and Technologies
+### Backend
+   * Python
+   * FastAPI
+   * Pydantic (data validation and models)
+   * Domain-driven simulation engine
+   * Repository pattern for persistence abstraction
+
+### Architecture & Patterns
+   * Event sourcing (lightweight)
+   * Materialized views
+   * Repository abstraction
+   * API-first design
+   * Clean separation of concerns
+   * Deterministic simulation logic
+
+### Future Cloud
+   * AWS GovCloud
+   * DynamoDB
+   * IAM
+   * Encrypted storage
+   * Audit and compliance patterns
 ---
 
 ## High-Level Architecture
@@ -63,3 +85,5 @@ flowchart TD
 
     STATE -.-> FUTURE
     EVENTS -.-> FUTURE
+
+
