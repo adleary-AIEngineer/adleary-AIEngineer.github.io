@@ -1,5 +1,5 @@
 ---
-Projects (In Progress)
+title: "Projects (In Progress)"
 ---
 
 ## [Chemical Incident Response Platform Simulation (ChIRPS)](/projects/Chemical-Incident-Simulation)
