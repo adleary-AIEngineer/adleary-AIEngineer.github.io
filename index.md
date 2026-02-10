@@ -38,6 +38,9 @@ This portfolio is structured to support different levels of depth:
 
 Together, these materials reflect my approach to designing AI-enabled systems that can be deployed, operated, and evolved in real-world environments.
 
+Leadership philosophy and team values → [Leadership & Values](/leadership)
+
+
 ---
 
 **Background:** Emergency management, chemical and biological threat domains  
