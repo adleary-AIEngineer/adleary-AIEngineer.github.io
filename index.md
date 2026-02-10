@@ -54,6 +54,6 @@ Together, these materials reflect my approach to designing AI-enabled systems th
 **Tools:** Python, SQL, AWS, LLM platforms, backend APIs, data platforms
 
 ---
-[Leadership and Values →](/leadership)
+[Leadership and Values](/leadership)
 
 
