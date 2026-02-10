@@ -1,8 +1,3 @@
----
-layout: default
-title: Architecture
----
-
 ## Architecture & Systems Design (In Progress)
 
 This section will document:
