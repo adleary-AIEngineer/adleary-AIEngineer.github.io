@@ -78,3 +78,10 @@ This site documents my transition through system designs, hands-on projects, and
 These materials reflect both my technical growth and my focus on building systems that are suitable for real-world deployment.
 
 If you are interested in AI system architecture, cloud platform design, or applying these technologies in complex operational domains, I welcome the opportunity to connect.
+
+## Leadership & Values
+
+In addition to technical and architectural work, I bring a leadership philosophy shaped by decades of leading in high-stakes environments. My approach to leadership focuses on dignity, character, empowerment, vulnerability, and curiosity.
+
+You can read more about my leadership philosophy here:  
+**[Leadership & Values →](/leadership)**
