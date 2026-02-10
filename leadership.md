@@ -1,4 +1,6 @@
-# Leadership Values
+---
+title: Leadership
+---
 I have had the honor to lead small teams over my career. Whether a team of direct reports, a cross-matrixed project team, or leading across and up without authority, my values remain consistent. Cultivated throughout my lifetime, these values are how I approach my work and my life.
 
 ## Honor Dignity
