@@ -8,11 +8,11 @@ This project is a web-based simulation and training platform designed to model c
 
 The platform is intended to support:
 
-- Emergency management training
-- Multi-agency coordination exercises
-- After Action Reports (AAR)
-- Decision analysis and replay
-- Auditability and compliance-oriented recordkeeping
+   * Emergency management training
+   * Multi-agency coordination exercises
+   * After Action Reports (AAR)
+   * Decision analysis and replay
+   * Auditability and compliance-oriented recordkeeping
 
 The architecture is designed from the outset to support sensitive-but-unclassified (SBU) use cases and future deployment to AWS GovCloud.
 
@@ -22,12 +22,12 @@ Training and exercising for low-frequency, high consequence threats like CBRN in
 
 ## Key Capabilities
 
-- Multi-exercise support (concurrent simulations)
-- Role-based interaction (facilitator, responder, observer)
-- Event-driven simulation engine
-- Immutable event logging for audit and replay
-- Materialized state views for real-time simulation
-- API-driven architecture for UI, analytics, and integration
+   * Multi-exercise support (concurrent simulations)
+   * Role-based interaction (facilitator, responder, observer)
+   * Event-driven simulation engine
+   * Immutable event logging for audit and replay
+   * Materialized state views for real-time simulation
+   * API-driven architecture for UI, analytics, and integration
 
 ## Tools and Technologies
 ### Backend
