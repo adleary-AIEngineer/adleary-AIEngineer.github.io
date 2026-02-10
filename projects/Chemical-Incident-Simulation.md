@@ -15,6 +15,8 @@ The platform is intended to support:
 The architecture is designed from the outset to support sensitive-but-unclassified (SBU) use cases and future deployment to AWS GovCloud.
 
 ---
+## Problem Statement
+Training and exercising for low-frequency, high consequence threats like CBRN incidents is increasingly difficult at all levels of response, due to a variety of factors, including: resource limitations, personnel attrition, and the increasing number of high-frequency threats responders must prepare for. Functional Exercises are great for assessing specific tactics, techniques, and coordination druing a multi-agency response. However, they are challenging since responders have to be pulled "off the line" or brought in during their off-shift to participate. Discussion-based or Table Top Exercises are good for identifying communication and coordination challenges and planning factors, but they lack realism. Neither of these types of exercises take into account one of the most challenging aspects of a response: how people will behave. I wanted to design a system that helps responders work through a problem in near real-time that includes injects that no one developed ahead of time and could include an element of crowd behavior to stress the response. 
 
 ## Key Capabilities
 
