@@ -87,5 +87,5 @@ flowchart TD
 
     STATE -.-> FUTURE
     EVENTS -.-> FUTURE
-
+```
 
