@@ -1,4 +1,6 @@
-# About
+---
+title: About
+---
 I design and lead the development of AI-enabled systems for complex, high-stakes operational environments.
 
 I am an action-oriented project and program management professional in emergency management, with a focus on chemical and biological threats. I bring over 20 years of experience delivering results at the intersection of policy, planning, and operations, with a proven record of:
