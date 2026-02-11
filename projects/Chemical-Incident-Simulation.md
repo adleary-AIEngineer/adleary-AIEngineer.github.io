@@ -72,6 +72,8 @@ This design supports traceability, replay, debugging, and compliance use cases c
 
 ## Architectural Flow Diagram
 
+![LLM Architecture](/assets/images/ERES-architecure.png)
+
 ```mermaid
 flowchart TD
     UI[Web UI / Client]
