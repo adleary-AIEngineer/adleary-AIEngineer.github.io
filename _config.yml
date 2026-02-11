@@ -6,8 +6,8 @@ plugins:
 header_pages:
   - index.md
   - about.md
-  - projects.md
-  - architecture.md
-  - leadership.md
-  - writing.md
   - contact.md
+  - projects.md
+  - leadership.md
+  - architecture.md
+  - writing.md
