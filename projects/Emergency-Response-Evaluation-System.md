@@ -11,27 +11,8 @@ In Emergency Management, **Emergency Operations Plans (EOPs)** are critical but 
 ## 🏗 High-Level Architecture
 ARES utilizes a unique **dual-engine architecture** to ensure that both text and visual data (maps, org charts) are preserved and utilized.
 
+![LLM Architecture](/assets/images/ERES-architecture.png)
 
-
-```mermaid
-graph TD
-    A[Louisville EOP PDF] --> B{ARES Pipeline}
-    
-    subgraph "The Muscle (Go)"
-    B --> C[Image Extractor]
-    C --> D[Charts, Maps, Tables Saved]
-    end
-    
-    subgraph "The Brain (Python)"
-    B --> E[Layout-Aware Ingestor]
-    E --> F[Vector Database - ChromaDB]
-    end
-    
-    F --> G[Query Engine]
-    H[User Question] --> G
-    G --> I[Llama 3.2 via Ollama]
-    I --> J[Grounded Answer + Page Citations]
-```
 
 ## ✨ Unique Features
 Visual Preservation: Unlike standard AI tools that ignore images, the Go-based extractor ensures maps and ICS charts are archived for situational awareness.
@@ -40,14 +21,14 @@ Fully Local & Private: Designed for air-gapped or sensitive government environme
 Source Accountability: Every answer includes direct page citations from the original EOP to prevent AI hallucinations.
 
 ## 🛠 Tools & Techniques
-Layer | Technology | Purpose
----|---|---|
-Language (Infrastructure)|Go|High-speed PDF parsing and binary portability.
-Language (AI)|Python 3.12|LangChain orchestration and data science libraries.
-AI Model|Llama 3.2 (3B)|Local LLM served via Ollama for low-latency inference.
-Vector DB|ChromaDB|High-performance embedding storage and retrieval.
-Environment|WSL2 (Ubuntu)|Linux-standard development on Windows hardware.
-DevOps|Docker|Containerization for reproducible deployments.
+| Layer | Technology | Purpose |
+|-------|------------|---------|
+| Language (Infrastructure) | Go | High-speed PDF parsing and binary portability. |
+| Language (AI) | Python 3.12 | LangChain orchestration and data science libraries. |
+| AI Model | Llama 3.2 (3B) | Local LLM served via Ollama for low-latency inference. |
+| Vector DB | ChromaDB | High-performance embedding storage and retrieval. |
+| Environment | WSL2 (Ubuntu) | Linux-standard development on Windows hardware. |
+| DevOps | Docker | Containerization for reproducible deployments. |
 
 ## 🚀 Future Roadmap: Cloud Scale
 Currently transitioning the Go Extractor to AWS Lambda for event-driven processing. When a file is uploaded to an S3 Bucket, the system will automatically trigger the intelligence pipeline.
