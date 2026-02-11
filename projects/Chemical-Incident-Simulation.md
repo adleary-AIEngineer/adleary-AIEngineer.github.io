@@ -72,26 +72,6 @@ This design supports traceability, replay, debugging, and compliance use cases c
 
 ## Architectural Flow Diagram
 
-![LLM Architecture](/assets/images/ERES-architecure.png)
+![LLM Architecture](/assets/images/ChIRPS-architecture.png)
 
-```mermaid
-flowchart TD
-    UI[Web UI / Client]
-    API[FastAPI API Layer]
-    ENGINE[Simulation Engine]
-    STATE[Exercise State Store]
-    EVENTS[Immutable Event Log]
-    FUTURE[(Future: DynamoDB / GovCloud)]
-
-    UI --> API
-    API --> ENGINE
-    ENGINE --> STATE
-    API --> STATE
-
-    API --> EVENTS
-    EVENTS --> API
-
-    STATE -.-> FUTURE
-    EVENTS -.-> FUTURE
-```
 
