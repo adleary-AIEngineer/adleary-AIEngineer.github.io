@@ -54,7 +54,8 @@ Neither of these types of exercises take into account one of the most challengin
    * DynamoDB
    * IAM
    * Encrypted storage
-   * Audit and compliance patterns
+   * Audit and compiance patterns
+
 ---
 
 ## High-Level Architecture
