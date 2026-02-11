@@ -46,7 +46,7 @@ Rather than positioning myself purely as an individual contributor engineer, I a
 - Security, scalability, and cost considerations
 - Deployment and operational architecture patterns
 
-### Languages & Tools (for architectural depth)
+### Languages & Tools
 - Python
 - SQL
 - Git and collaborative workflows
