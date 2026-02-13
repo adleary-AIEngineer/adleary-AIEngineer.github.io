@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8">
+  <diagram name="Page-1" id="bWVS7RQDI311QSUa21zu">
+    <mxGraphModel dx="2336" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x5E3XyCYbxdD106CAdp7-5" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Deter/Disrupt Attack" vertex="1">
+          <mxGeometry height="80" width="170" x="383" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-7" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cdeb8b;strokeColor=#36393d;" value="Chemical Security" vertex="1">
+          <mxGeometry height="80" width="170" x="233" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-8" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Strengthen Response&lt;div&gt;and Recovery&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="683" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-9" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#2cbf22, #43ba43);fontColor=#ffffff;strokeColor=#005700;" value="Detect/Characterize" vertex="1">
+          <mxGeometry height="80" width="170" x="533" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-28" connectable="0" parent="1" style="group;rotation=90;" value="" vertex="1">
+          <mxGeometry height="230" width="170" x="-40" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-29" parent="x5E3XyCYbxdD106CAdp7-28" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="80" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-30" parent="x5E3XyCYbxdD106CAdp7-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="Prevention" vertex="1">
+          <mxGeometry height="30" width="140" x="15" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-37" connectable="0" parent="x5E3XyCYbxdD106CAdp7-28" style="group;rotation=90;" value="" vertex="1">
+          <mxGeometry height="80" width="170" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-38" parent="x5E3XyCYbxdD106CAdp7-37" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="80" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-39" parent="x5E3XyCYbxdD106CAdp7-37" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="Protection" vertex="1">
+          <mxGeometry height="30" width="140" x="15" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-31" connectable="0" parent="1" style="group;rotation=90;" value="" vertex="1">
+          <mxGeometry height="80" width="170" x="-40" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-32" parent="x5E3XyCYbxdD106CAdp7-31" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="80" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-33" parent="x5E3XyCYbxdD106CAdp7-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="Response" vertex="1">
+          <mxGeometry height="30" width="140" x="15" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-34" connectable="0" parent="1" style="group;rotation=90;" value="" vertex="1">
+          <mxGeometry height="80" width="170" x="-40" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-35" parent="x5E3XyCYbxdD106CAdp7-34" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="80" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-36" parent="x5E3XyCYbxdD106CAdp7-34" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="Mitigation" vertex="1">
+          <mxGeometry height="30" width="140" x="15" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-43" connectable="0" parent="1" style="group;rotation=90;" value="" vertex="1">
+          <mxGeometry height="80" width="170" x="-40" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-44" parent="x5E3XyCYbxdD106CAdp7-43" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="80" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-45" parent="x5E3XyCYbxdD106CAdp7-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="Recovery" vertex="1">
+          <mxGeometry height="30" width="140" x="15" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" value="Tactical" vertex="1">
+          <mxGeometry height="40" width="90" x="-300" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="Operational" vertex="1">
+          <mxGeometry height="40" width="90" x="-300" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Strategic" vertex="1">
+          <mxGeometry height="40" width="90" x="-300" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-52" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Awareness&lt;div&gt;Threats and Risks&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="82" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="x5E3XyCYbxdD106CAdp7-53" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=14;" value="Chemical Threat Activity" vertex="1">
+          <mxGeometry height="80" width="120" x="-315" y="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
