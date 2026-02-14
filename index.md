@@ -1,61 +1,129 @@
 ---
 layout: home
-title: "Intro - AI Engineering Portfolio"
+title: "Intro AI Engineering Portfolio"
 ---
 
-I am a project and program management professional in emergency management, focused on chemical and biological threats, who is transitioning into AI systems and cloud architecture. This site documents my work designing and building end-to-end AI-enabled platforms, with an emphasis on system architecture, reliability, and operational readiness.
+## Building AI Systems for High-Stakes Environments
 
-My focus is on how AI, data platforms, and cloud infrastructure fit together to form production-grade systems — not just isolated models or prototypes.
+I'm a project and program management professional transitioning from **20+ years in emergency management and CBRN operations** into **AI systems architecture and cloud platform design**.
 
-## Areas of Focus
-
-- AI system architecture and platform design
-- LLM-enabled application and workflow design
-- Backend service and API architecture
-- Data platform design (document + relational systems)
-- Cloud-native architecture on AWS
-- Observability, reliability, and operational considerations
-
-## Flagship Work (In Progress)
-
-### [Chemical Incident Response Platform Simulation (ChIRPS)](/projects/Chemical-Incident-Simulation)
-This project is a web-based simulation and training platform designed to model complex chemical, biological, radiological, and nuclear (CBRN) emergency response scenarios. The system enables facilitators to run realistic, multi-agency incident exercises while capturing detailed, time-ordered decision-making and operational actions.
-
-The platform is intended to support:
-
-- Emergency management training
-- Multi-agency coordination exercises
-- After Action Reports (AAR)
-- Decision analysis and replay
-- Auditability and compliance-oriented recordkeeping
-
-
-
-### [ERES: Emergency Response & Evaluation System](/projects/Emergency-Response-Evaluation-System)
-In Emergency Management, Emergency Operations Plans (EOPs) are critical but cumbersome. Often spanning hundreds of pages, these PDFs are difficult to navigate under the high-stress conditions of an active incident.
-
-ERES is a local-first, high-performance RAG (Retrieval-Augmented Generation) pipeline designed to ingest complex EOPs and provide instant, grounded answers to field responders.
-
-
-
-## How to Use This Site
-
-This portfolio is structured to support different levels of depth:
-
-- Start here for a high-level overview
-- Visit Projects for platform and system case studies
-- Explore Architecture for detailed system designs and tradeoff discussions
-
-Together, these materials reflect my approach to designing AI-enabled systems that can be deployed, operated, and evolved in real-world environments.
+This portfolio documents my journey building production-oriented AI platforms — systems designed not just to work in demos, but to operate reliably under real-world constraints.
 
 ---
 
-**Background:** Emergency management, chemical and biological threat domains, project and program management  
-**Focus:** AI systems architecture, cloud platform design, and operational AI  
-**Tools:** Python, SQL, AWS, LLM platforms, backend APIs, data platforms
+## What Makes This Portfolio Different
+
+My approach to AI engineering is shaped by decades of leading complex, high-stakes programs where failure has consequences. I don't just build models — I design the **full platforms** that support them:
+
+- **End-to-end system architecture** — from data pipelines to service layers to deployment
+- **Operational readiness** — reliability, monitoring, failure modes, and recovery
+- **Real-world constraints** — security, scalability, maintainability, and cost tradeoffs
 
 ---
 
-[Leadership and Values](/leadership)
+## Technical Focus Areas
 
+<table>
+<tr>
+<td width="50%">
 
+### AI & LLM Systems
+
+- LLM application architecture
+- RAG system design
+- Multi-step orchestration
+- Model evaluation & monitoring
+
+</td>
+<td width="50%">
+
+### Platform & Infrastructure
+
+- Backend service architecture
+- API design for AI workflows
+- Cloud-native AWS systems
+- Data platform design
+
+</td>
+</tr>
+</table>
+
+**Core Technologies:** Python • SQL • MongoDB • AWS • Git • CI/CD
+
+---
+
+## Featured Projects
+
+### 🚨 [ChIRPS: Chemical Incident Response Platform Simulation](/projects/Chemical-Incident-Simulation)
+
+A web-based training platform for multi-agency CBRN emergency response exercises.
+
+**The Challenge:** Traditional tabletop exercises lack auditability, time-ordering, and realistic multi-agency coordination dynamics.
+
+**The System:** Full-stack platform enabling facilitators to run realistic incident simulations while capturing every decision, action, and communication in a queryable, time-ordered format.
+
+**Architecture Focus:**
+
+- Multi-user real-time coordination workflows
+- Event-sourced data model for replay and analysis
+- Role-based access and agency separation
+- Automated After Action Report generation
+
+---
+
+### 📋 [ERES: Emergency Response & Evaluation System](/projects/Emergency-Response-Evaluation-System)
+
+A local-first RAG pipeline that makes 500+ page Emergency Operations Plans instantly searchable during active incidents.
+
+**The Problem:** Critical guidance is buried in massive PDFs, making it nearly impossible to find what you need when seconds count.
+
+**The Solution:** High-performance retrieval system delivering grounded, source-cited answers to field responders.
+
+**Architecture Focus:**
+
+- Document chunking and embedding strategies
+- Hybrid retrieval (vector + keyword)
+- Citation and source attribution
+- Local-first design for network-degraded environments
+
+---
+
+## Portfolio Structure
+
+This site is organized to support different levels of depth:
+
+```
+📍 Start Here (this page) → High-level overview
+📂 Projects → Platform case studies with architectural deep-dives
+🏗️ Architecture → System design patterns and tradeoff analyses
+👤 About → Background, capabilities, and leadership philosophy
+```
+
+---
+
+## Why I'm Building in Public
+
+I'm documenting this transition to:
+
+1. **Demonstrate technical growth** through hands-on system design
+2. **Show architectural thinking** — not just code, but design decisions and tradeoffs
+3. **Build credibility** in AI engineering through real, deployable systems
+4. **Connect with others** working at the intersection of AI and complex operational domains
+
+---
+
+## Background Snapshot
+
+**From:** Emergency management • CBRN operations • Federal program leadership  
+**To:** AI systems architecture • Cloud platform design • Production AI engineering  
+**Focus:** Systems that are reliable, maintainable, and suitable for high-stakes environments
+
+---
+
+<div align="center">
+
+### Interested in AI System Architecture?
+
+[Read More About My Approach](/about) • [View Leadership Philosophy](/leadership)
+
+</div>
