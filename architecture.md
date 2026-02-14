@@ -1,5 +1,5 @@
 ---
-title: Architecture and Systems Design (In Progress)
+title: Architecture and Systems Design
 ---
 
 This section will document:
