@@ -168,6 +168,4 @@ If you're interested in:
 
 ---
 
----
-
 [View Projects](/projects) • [Explore Architecture](/architecture) • [Leadership Values](/leadership)
