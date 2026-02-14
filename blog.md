@@ -1,5 +1,5 @@
 ---
-Title: Blog
+title: Blog
 ---
 
 **February 14, 2026 - From Watching Demos to Building Tools: My AI Journey in Emergency Management**
