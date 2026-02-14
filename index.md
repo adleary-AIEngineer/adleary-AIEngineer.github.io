@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Intro AI Engineering Portfolio"
+title: "AI Engineering Portfolio"
 ---
 
 ## Building AI Systems for High-Stakes Environments
