@@ -1,89 +1,173 @@
 ---
 title: About
 ---
-I design and lead the development of AI-enabled systems for complex, high-stakes operational environments.
 
-I am an action-oriented project and program management professional in emergency management, with a focus on chemical and biological threats. I bring over 20 years of experience delivering results at the intersection of policy, planning, and operations, with a proven record of:
-   * Standing up and scaling national-level chemical preparedness and response programs.
-   * Driving complex interagency initiatives from concept through implementation.
-   * Leading crisis action planning for pandemics, major hurricanes, wildfires, and CBRN.
+## From Emergency Management to AI Engineering
 
-This experience informs how I now approach complex technical systems: as mission-critical platforms that must operate under real-world constraints.
+I design and lead the development of **AI-enabled systems for complex, high-stakes operational environments**.
 
-I bring a multidisciplinary perspective spanning biotechnology, emergency and disaster management, military CBRN and civilian HAZMAT operations, medical countermeasures policy and requirements, and federal program/portfolio management. Not a single-domain specialist, but a practitioner who tackles problems from multiple angles and gets things done. That same multidisciplinary, execution-focused mindset now guides how I am building capability in AI systems and cloud architecture.
+My career has been defined by building and scaling programs that matter — national chemical preparedness initiatives, pandemic response coordination, multi-agency crisis operations. These experiences taught me how to think in systems, manage complexity, and deliver results when failure has real consequences.
 
-In parallel, I am developing hands-on skills in AI systems and cloud architecture, with the goal of designing and guiding the development of production-grade AI platforms and decision-support systems.
+Now I'm applying that same mindset to a different challenge: **designing production-grade AI platforms and cloud architectures** that can be deployed, operated, and trusted in real-world environments.
 
-My background in leading complex, high-stakes programs shapes how I approach technology: I think in terms of systems, architecture, and operational realities. As I expand into more technical work, I focus on how AI, data platforms, and cloud infrastructure fit together to form reliable, maintainable, and scalable systems.
+---
 
-Rather than positioning myself purely as an individual contributor engineer, I am intentionally building toward roles that combine technical depth with system architecture, platform design, and technical leadership responsibility. My focus is on understanding how to design AI-enabled platforms end-to-end — from service boundaries and data flows to deployment models, observability, and lifecycle management.
+## Two Decades of High-Stakes Program Leadership
 
-## What I’m Building Capability In
+I bring **20+ years** as an action-oriented project and program management professional in emergency management, with deep expertise in chemical and biological threats.
 
-### AI & LLM Systems
-- Designing end-to-end LLM application architectures
+### Core Experience
+
+- **National Program Development** — Standing up and scaling federal chemical preparedness and response capabilities
+- **Interagency Coordination** — Driving complex initiatives from concept through implementation across DOD, HHS, DHS, and state/local agencies
+- **Crisis Action Planning** — Leading operational planning for pandemics, hurricanes, wildfires, and CBRN incidents
+- **Multidisciplinary Expertise** — Spanning biotechnology, CBRN/HAZMAT operations, medical countermeasures policy, and federal portfolio management
+
+This isn't theoretical work. It's experience gained in Operations Centers, interagency working groups, and real incidents where decisions had to be right the first time.
+
+---
+
+## Why AI Systems and Cloud Architecture
+
+I'm focused on AI systems and cloud architecture because they enable **scalable decision support, automation, and data-driven capabilities** in exactly the kinds of complex operational environments I've spent my career in.
+
+But my interest goes beyond building models. I'm focused on designing **the full platforms that support them**:
+
+- Data pipelines that feed AI systems
+- Service layers that make them accessible
+- Monitoring and observability that make them trustworthy
+- Deployment architectures that make them operational
+
+---
+
+## Building Technical Capability with an Architectural Mindset
+
+Rather than positioning myself as a pure individual contributor engineer, I'm intentionally building toward **roles that combine technical depth with system architecture, platform design, and technical leadership**.
+
+My goal: understand how to design AI-enabled platforms **end-to-end** — from service boundaries and data flows to deployment models, observability, and lifecycle management.
+
+### Technical Capabilities in Development
+
+<details>
+<summary><strong>🤖 AI & LLM Systems</strong></summary>
+
+- End-to-end LLM application architectures
 - Retrieval-Augmented Generation (RAG) system design
 - Multi-step LLM orchestration and workflow design
 - Evaluation strategies and monitoring of model behavior
 - Responsible integration of LLMs into operational systems
 
-### Backend Platforms & APIs
+</details>
+
+<details>
+<summary><strong>⚙️ Backend Platforms & APIs</strong></summary>
+
 - Service-oriented backend architecture
 - API design for AI-driven platforms
 - Async workflows and background processing models
 - Logging, monitoring, and system observability
 
-### Data Platforms
+</details>
+
+<details>
+<summary><strong>💾 Data Platforms</strong></summary>
+
 - Data modeling for AI-enabled applications
 - MongoDB for document and workflow persistence
 - SQL for structured data and analytics
 - Schema and versioning strategies for evolving systems
 
-### Cloud & Infrastructure Architecture
+</details>
+
+<details>
+<summary><strong>☁️ Cloud & Infrastructure Architecture</strong></summary>
+
 - Cloud-native system design on AWS
 - Compute, storage, and networking architecture
 - Environment separation (dev/staging/prod)
 - Security, scalability, and cost considerations
 - Deployment and operational architecture patterns
 
-### Languages & Tools
-- Python
-- SQL
+</details>
+
+<details>
+<summary><strong>🛠️ Languages & Tools</strong></summary>
+
+- Python (primary language)
+- SQL (PostgreSQL, MySQL)
 - Git and collaborative workflows
-- Testing frameworks
+- Testing frameworks (pytest, unittest)
 - CI/CD pipelines
 
-## Architectural & Systems Perspective
+</details>
 
-My work in emergency management and chemical and biological threat domains requires disciplined systems thinking, risk awareness, and operational planning. I bring that same mindset into technical architecture:
+---
 
-- Designing for failure modes and recovery
-- Making architectural tradeoffs explicit
-- Prioritizing reliability and clarity over unnecessary complexity
-- Ensuring systems can be operated, monitored, and evolved over time
+## How Emergency Management Shapes My Technical Approach
 
-This perspective informs how I approach AI and cloud architecture, particularly in environments where safety, accountability, and resilience matter.
+My work in emergency management and CBRN operations requires **disciplined systems thinking, risk awareness, and operational planning**. I bring that same mindset into technical architecture:
 
-## Why AI Systems and Cloud Architecture
+| Emergency Management Principle | Technical Architecture Application |
+| --- | --- |
+| Plan for failure modes | Design for graceful degradation and recovery |
+| Make risks explicit | Document architectural tradeoffs clearly |
+| Prioritize reliability | Choose simplicity over unnecessary complexity |
+| Enable operations | Ensure systems can be monitored and evolved |
+| Maintain accountability | Build in observability and auditability |
 
-I am focused on AI systems and cloud architecture because they enable scalable decision support, automation, and data-driven capabilities in complex operational environments. My interest is not limited to building models, but in designing the full platforms that support them — including data pipelines, service layers, and operational tooling.
+This perspective shapes how I approach AI and cloud architecture, particularly in environments where **safety, accountability, and resilience** matter.
 
-## What You’ll Find on This Site
+---
 
-This site documents my transition through system designs, hands-on projects, and architectural writeups. You will find:
+## What You'll Find on This Site
 
-- AI and LLM system architecture designs
-- Cloud and data platform architectures
-- Project case studies focused on system design
-- Engineering and architecture notes with explicit tradeoffs
+This portfolio documents my transition through **system designs, hands-on projects, and architectural writeups**.
 
-These materials reflect both my technical growth and my focus on building systems that are suitable for real-world deployment.
+### Content Types
 
-If you are interested in AI system architecture, cloud platform design, or applying these technologies in complex operational domains, I welcome the opportunity to connect.
+📂 **Project Case Studies**  
+End-to-end system designs with architectural deep-dives, tradeoff analyses, and implementation details
 
-## Leadership & Values
+🏗️ **Architecture Documentation**  
+Platform design patterns, service boundaries, data flows, and deployment models
 
-In addition to technical and architectural work, I bring a leadership philosophy shaped by decades of leading in high-stakes environments. My approach to leadership focuses on dignity, character, empowerment, vulnerability, and curiosity.
+📝 **Engineering Notes**  
+Technical learning, problem-solving approaches, and lessons from building real systems
 
-You can read more about my leadership philosophy here:  
-**[Leadership & Values →](/leadership)**
+🎯 **Leadership Philosophy**  
+How decades of high-stakes leadership inform my approach to technical work
+
+---
+
+## Values & Leadership
+
+Beyond technical work, I bring a **leadership philosophy shaped by decades in high-stakes environments**. My approach centers on:
+
+- **Dignity** — Treating people with respect, especially under pressure
+- **Character** — Leading by example and maintaining integrity
+- **Empowerment** — Building capability in others, not dependency
+- **Vulnerability** — Admitting uncertainty and creating space for others to do the same
+- **Curiosity** — Approaching problems with genuine interest in understanding
+
+> *Technical excellence matters, but so does how you lead, how you treat people, and how you build teams.*
+
+[Read Full Leadership Philosophy →](/leadership)
+
+---
+
+## Connect
+
+If you're interested in:
+
+- AI system architecture and production AI
+- Cloud platform design for operational systems
+- Applying AI in complex, high-stakes domains
+- Bridging operational experience with technical capability
+
+**I welcome the opportunity to connect.**
+
+---
+
+<div align="center">
+
+[View Projects](/projects) • [Explore Architecture](/architecture) • [Leadership Values](/leadership)
