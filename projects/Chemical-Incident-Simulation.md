@@ -2,77 +2,73 @@
 title: "Chemical Incident Response Platform Simulation (ChIRPS)"
 ---
 
-## Overview
+## 📌 Project Overview
 
-This project is a web-based simulation and training platform designed to model complex chemical, biological, radiological, and nuclear (CBRN) emergency response scenarios. The system enables facilitators to run realistic, multi-agency incident exercises while capturing detailed, time-ordered decision-making and operational actions.
+**ChIRPS** is a web-based simulation and training platform designed to model complex chemical, biological, radiological, and nuclear (CBRN) emergency response scenarios. The system enables facilitators to run realistic, multi-agency incident exercises while capturing detailed, time-ordered decision-making and operational actions.
 
-The platform is intended to support:
-
-   * Emergency management training
-   * Multi-agency coordination exercises
-   * After Action Reports (AAR)
-   * Decision analysis and replay
-   * Auditability and compliance-oriented recordkeeping
-
-The architecture is designed from the outset to support sensitive-but-unclassified (SBU) use cases and future deployment to AWS GovCloud.
-
----
-## Problem Statement
-Training and exercising for low-frequency, high consequence threats like CBRN incidents is increasingly difficult at all levels of response, due to a variety of factors, including: resource limitations, personnel attrition, and the increasing number of high-frequency threats responders must prepare for. 
-
-Functional Exercises are great for assessing specific tactics, techniques, and coordination druing a multi-agency response. However, they are challenging since responders have to be pulled "off the line" or brought in during their off-shift to participate. Discussion-based or Table Top Exercises are good for identifying communication and coordination challenges and planning factors, but they lack realism. 
-
-Neither of these types of exercises take into account one of the most challenging aspects of a response: how people will behave. I wanted to design a system that helps responders work through a problem in near real-time that includes injects that no one developed ahead of time and could include an element of crowd behavior to stress the response. 
-
-## Key Capabilities
-
-   * Multi-exercise support (concurrent simulations)
-   * Role-based interaction (facilitator, responder, observer)
-   * Event-driven simulation engine
-   * Immutable event logging for audit and replay
-   * Materialized state views for real-time simulation
-   * API-driven architecture for UI, analytics, and integration
-
-## Tools and Technologies
-### Backend
-   * Python
-   * FastAPI
-   * Pydantic (data validation and models)
-   * Domain-driven simulation engine
-   * Repository pattern for persistence abstraction
-
-### Architecture & Patterns
-   * Event sourcing (lightweight)
-   * Materialized views
-   * Repository abstraction
-   * API-first design
-   * Clean separation of concerns
-   * Deterministic simulation logic
-
-### Future Cloud
-   * AWS GovCloud
-   * DynamoDB
-   * IAM
-   * Encrypted storage
-   * Audit and compiance patterns
+The platform bridges the gap between traditional training exercises and real-world incident complexity by introducing dynamic, AI-driven scenario evolution that accounts for human behavior and crowd dynamics.
 
 ---
 
-## High-Level Architecture
+## 🎯 Problem Statement
 
-The system uses a layered, event-driven architecture separating:
+Training and exercising for low-frequency, high-consequence threats like CBRN incidents is increasingly difficult at all levels of response due to resource limitations, personnel attrition, and the growing number of high-frequency threats responders must prepare for.
 
-- Simulation logic
-- API orchestration
-- Current state (materialized views)
-- Immutable event history (audit trail)
+**Current Exercise Limitations:**
+- **Functional Exercises** excel at assessing specific tactics and multi-agency coordination, but require pulling responders "off the line" or bringing them in during off-shifts
+- **Table Top Exercises** identify communication and coordination challenges but lack realism
+- **Neither approach** adequately simulates one of the most challenging response aspects: unpredictable human behavior and crowd dynamics
 
-This design supports traceability, replay, debugging, and compliance use cases common in emergency management and government systems.
+ChIRPS addresses these gaps by providing near real-time problem-solving scenarios with AI-generated injects and crowd behavior elements that stress-test response capabilities.
 
 ---
 
-## Architectural Flow Diagram
+## ✨ Key Capabilities
 
-![LLM Architecture](/assets/images/ChIRPS-architecture.png)
+- **Multi-Exercise Support**: Run concurrent simulations across different scenarios and agencies
+- **Role-Based Interaction**: Distinct interfaces and permissions for facilitators, responders, and observers
+- **Event-Driven Simulation Engine**: Dynamic scenario evolution based on responder actions
+- **Immutable Event Logging**: Complete audit trail for compliance and replay analysis
+- **Materialized State Views**: Real-time simulation status and decision tracking
+- **After Action Reports (AAR)**: Automated documentation of decisions and outcomes
+- **API-Driven Architecture**: Extensible design for analytics, UI, and third-party integration
 
+---
 
+## 🏗 High-Level Architecture
+
+The system employs a layered, event-driven architecture with clear separation of concerns:
+
+![ChIRPS Architecture](/assets/images/ChIRPS-architecture.png)
+
+**Architectural Principles:**
+- **Simulation Logic**: Domain-driven design with deterministic simulation rules
+- **API Orchestration**: FastAPI-based service layer for all interactions
+- **Current State**: Materialized views for real-time query performance
+- **Immutable History**: Event sourcing pattern for complete audit trail and replay capability
+
+This design supports traceability, debugging, and compliance use cases common in emergency management and government systems.
+
+---
+
+## 🛠 Tools & Technologies
+
+| Layer | Technology | Purpose |
+|-------|------------|---------|
+| Language | Python | Core application development and business logic |
+| API Framework | FastAPI | High-performance async API with automatic documentation |
+| Data Validation | Pydantic | Type-safe models and data validation |
+| Architecture | Event Sourcing | Immutable event log with materialized views |
+| Design Pattern | Repository Pattern | Persistence abstraction for future database flexibility |
+| API Design | API-First | Clean separation enabling multiple client types |
+
+---
+
+## 🚀 Future Roadmap: Cloud Scale
+
+The platform is architected for deployment to **AWS GovCloud** to support sensitive-but-unclassified (SBU) use cases:
+
+- **Cloud Infrastructure**: AWS GovCloud compliance and security controls
+- **Database**: DynamoDB for scalable event storage
+- **Security**: IAM-based access control and encryption at rest/in transit
+- **Compliance**: Audit logging and data retention patterns for government requirements
