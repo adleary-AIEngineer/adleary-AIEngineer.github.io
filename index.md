@@ -21,32 +21,15 @@ My approach to AI engineering is shaped by decades of leading complex, high-stak
 
 ---
 
-## Technical Focus Areas
+##  Technical Focus Areas
 
-<table>
-<tr>
-<td width="50%">
+| **AI & LLM Systems** | **Platform & Infrastructure** |
+|---------------------|-------------------------------|
+| • LLM application architecture | • Backend service architecture |
+| • RAG system design | • API design for AI workflows |
+| • Multi-step orchestration | • Cloud-native AWS systems |
+| • Model evaluation & monitoring | • Data platform design |
 
-### AI & LLM Systems
-
-- LLM application architecture
-- RAG system design
-- Multi-step orchestration
-- Model evaluation & monitoring
-
-</td>
-<td width="50%">
-
-### Platform & Infrastructure
-
-- Backend service architecture
-- API design for AI workflows
-- Cloud-native AWS systems
-- Data platform design
-
-</td>
-</tr>
-</table>
 
 **Core Technologies:** Python • SQL • MongoDB • AWS • Git • CI/CD
 
@@ -120,10 +103,8 @@ I'm documenting this transition to:
 
 ---
 
-<div align="center">
+---
 
-### Interested in AI System Architecture?
+**Interested in AI System Architecture?**
 
 [Read More About My Approach](/about) • [View Leadership Philosophy](/leadership)
-
-</div>
