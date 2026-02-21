@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "When Your Laptop Tells You "No": Lessons from Building an AI Emergency Management Tool"
+title: "When Your Laptop Tells You 'No': Lessons from Building an AI Emergency Management Tool"
 date: 2026-02-21
 categories: ai emergency-management architecture
-excerpt: "Challenges faced during development and transition from local-only to hybrid-local/cloud."
+excerpt: "Challenges faced during development and transition from local-only to hybrid-local-cloud."
 ---
 
 **February 21, 2026**
