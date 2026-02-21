@@ -1,8 +1,12 @@
 ---
-title: Blog
+layout: post
+title: "From Watching Demos to Building Tools: My AI Journey in Emergency Management"
+date: 2026-02-14
+categories: ai emergency-management architecture
+excerpt: "A reflection on transitioning from AI observer to builder in the chemical and biological emergency response space."
 ---
 
-**February 14, 2026 - From Watching Demos to Building Tools: My AI Journey in Emergency Management**
+**February 14, 2026**
 About a year ago, I sat in the CISA AI and Machine Learning Bootcamp learning about models, algorithms, and frameworks. We'd type in code snippets to "see what this does," and while informative, something was missing. I kept thinking: *I see what's possible. Now how do I actually build something for chemical emergency response?*
 
 That question wouldn't let go.
