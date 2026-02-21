@@ -1,8 +1,12 @@
 ---
-title: Blog
+layout: post
+title: "When Your Laptop Tells You "No": Lessons from Building an AI Emergency Management Tool"
+date: 2026-02-21
+categories: ai emergency-management architecture
+excerpt: "Challenges faced during development and transition from local-only to hybrid-local/cloud."
 ---
 
-## February 21, 2026: When Your Laptop Tells You "No": Lessons from Building an AI Emergency Management Tool
+**February 21, 2026**
 
 Last week I shared why I started building instead of just watching. This week, I want to talk about what building actually looks like — because it's rarely the clean, linear process the tutorials make it out to be.
 
