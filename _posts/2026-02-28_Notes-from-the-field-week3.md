@@ -6,7 +6,7 @@ categories: ai emergency-management architecture network
 excerpt: "Developing a home network to better understand deployment infrastructure."
 ---
 
-**February 21, 2026**
+**February 28, 2026**
 
 I told myself it was a detour.
 
