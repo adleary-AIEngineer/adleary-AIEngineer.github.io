@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Notes From the Field
 ---
 
 ## System Evolution & Architecture Notes
